@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FARBi666
+- 👀 I’m interested in Android developement and Podman Containers for WIN 10
+- 🌱 I’m currently learning the above
+- 💞️ I’m looking to collaborate on ios and Arch Linux 
+- 📫 How to reach me Just send a little readme ;D
